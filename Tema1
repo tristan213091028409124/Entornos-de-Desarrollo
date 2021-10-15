@@ -56,11 +56,13 @@ El modelo en cascada propone dividir en fases cada etapa del desarrollo de softw
 
 
 4.	 Ventajas e inconvenientes del modelo en cascada.
-Ventajas	inconvenientes
-Los costes y la carga de trabajo se pueden estimar al comenzar el proyecto.	El usuario final no se integra en el proceso de producción hasta que no termina la programación.
-Una estructura sencilla gracias a unas fases de proyecto claramente diferenciadas.	En ocasiones, los fallos solo se detectan una vez finalizado el proceso de desarrollo.
+Ventajas	
+Los costes y la carga de trabajo se pueden estimar al comenzar el proyecto.
+Una estructura sencilla gracias a unas fases de proyecto claramente diferenciadas.	
 
-
+inconvenientes
+El usuario final no se integra en el proceso de producción hasta que no termina la programación.
+En ocasiones, los fallos solo se detectan una vez finalizado el proceso de desarrollo.
 
 5.	 ¿Qué se entiende por verificación? ¿Y por validación?
 
